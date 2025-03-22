@@ -5,3 +5,4 @@ I'm a data practitioner.
 - 🌱 I’m currently learning AI engineering
 
 
+[![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=urbanclimatefr)](https://github.com/anuraghazra/github-readme-stats)

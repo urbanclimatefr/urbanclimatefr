@@ -5,7 +5,7 @@ I'm a data practitioner:
 
 💡 I worked on ETL, recommendation system, and marketing predictive analytics in Digital Media
 
-🕵️‍♂️ I studied Digital Fingerprinting and researched catastrophic modelling
+🕵️‍♂️ I studied Digital Fingerprinting and researched catastrophic modelling in Insurtech start up
 
 🌦️ I studied how to improve weather and climate modelling in cities, specifically how improvement in radiation modelling helps urban climate prediction
 
